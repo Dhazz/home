@@ -1,1 +1,3 @@
-# home
+# HOME
+
+My personnal website
